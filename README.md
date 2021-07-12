@@ -5,4 +5,4 @@ The shared repository for SPARK
 - Santiago Condori
 
 - Jonathan Nayler
-- 
+- Jenny Ngoygen 
