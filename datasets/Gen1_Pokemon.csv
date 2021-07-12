@@ -1,0 +1,152 @@
+Name,Number,Type,Evolves_Into
+Bulbasaur,1,Grass,Ivysaur (#002)
+Ivysaur,2,Grass,Venusaur (#003)
+Venusaur,3,Grass,Mega Evolution
+Charmander,4,Fire,Charmeleon (#005)
+Charmeleon,5,Fire,Charizard (#006)
+Charizard,6,Fire,Mega Evolution (X & Y)
+Squirtle,7,Water,Wartortle (#008)
+Wartortle,8,Water,Blastoise (#009)
+Blastoise,9,Water,Mega Evolution
+Caterpie,10,Bug,Metapod (#011)
+Metapod,11,Bug,Butterfree (#012)
+Butterfree,12,Bug,End of evolution
+Weedle,13,Bug,Kakuna (#014)
+Kakuna,14,Bug,Beedrill (#015)
+Beedrill,15,Bug,Mega Evolution
+Pidgey,16,Normal,Pidgeotto (#017)
+Pidgeotto,17,Normal,Pidgeot (#018)
+Pidgeot,18,Normal,Mega Evolution
+Rattata,19,Normal,Raticate (#020)
+Raticate,20,Normal,End of evolution
+Spearow,21,Normal,Fearow (#022)
+Fearow,22,Normal,End of evolution
+Ekans,23,Poison,Arbok (#024)
+Arbok,24,Poison,End of evolution
+Pikachu,25,Electric,Raichu (#026)
+Raichu,26,Electric,End of evolution
+Sandshrew,27,Ground,Sandslash (#028)
+Sandslash,28,Ground,End of evolution
+Nidoran♀,29,Poison,Nidorina (#030)
+Nidorina,30,Poison,Nidoqueen (#031)
+Nidoqueen,31,Poison,End of evolutiom
+Nidoran♂,32,Poison,Nidorino (#033)
+Nidorino,33,Poison,Nidoking (#034)
+Nidoking,34,Poison,End of evolution
+Clefairy,35,Fairy[nb 2],Clefable (#036)
+Clefable,36,Fairy[nb 2],End of evolution
+Vulpix,37,Fire,Ninetales (#038)
+Ninetales,38,Fire,End of evolution
+Jigglypuff,39,Normal,Wigglytuff (#040)
+Wigglytuff,40,Normal,End of evolution
+Zubat,41,Poison,Golbat (#042)
+Golbat,42,Poison,Crobat (#169)
+Oddish,43,Grass,Gloom (#044)
+Gloom,44,Grass,Vileplume (#045)Bellossom (#182)
+Vileplume,45,Grass,End of evolution
+Paras,46,Bug,Parasect (#047)
+Parasect,47,Bug,End of evolution
+Venonat,48,Bug,Venomoth (#049)
+Venomoth,49,Bug,End of evolution
+Diglett,50,Ground,Dugtrio (#051)
+Dugtrio,51,Ground,End of evolution
+Meowth,52,Normal,Persian (#053)
+Persian,53,Normal,End of evolution
+Psyduck,54,Water,Golduck (#055)
+Golduck,55,Water,End of evolution
+Mankey,56,Fighting,Primeape (#057)
+Primeape,57,Fighting,End of evolution
+Growlithe,58,Fire,Arcanine (#059)
+Arcanine,59,Fire,End of evolution
+Poliwag,60,Water,Poliwhirl (#061)
+Poliwhirl,61,Water,Poliwrath (#062)Politoed (#186)
+Poliwrath,62,Water,End of evolution
+Abra,63,Psychic,Kadabra (#064)
+Kadabra,64,Psychic,Alakazam (#065)
+Alakazam,65,Psychic,Mega Evolution
+Machop,66,Fighting,Machoke (#067)
+Machoke,67,Fighting,Machamp (#068)
+Machamp,68,Fighting,End of evolution
+Bellsprout,69,Grass,Weepinbell (#070)
+Weepinbell,70,Grass,Victreebel (#071)
+Victreebel,71,Grass,End of evolution
+Tentacool,72,Water,Tentacruel (#073)
+Tentacruel,73,Water,End of evolution
+Geodude,74,Rock,Graveler (#075)
+Graveler,75,Rock,Golem (#076)
+Golem,76,Rock,Ending of evolution
+Ponyta,77,Fire,Rapidash (#078)
+Rapidash,78,Fire,End of evolution
+Slowpoke,79,Water,Slowbro (#080)Slowking (#199)
+Slowbro,80,Water,Mega Evolution
+Magnemite,81,Electric,Magneton (#082)
+Magneton,82,Electric,Magnezone (#462)
+Farfetch'd,83,Normal,Unable to evolve[nb 4]
+Doduo,84,Normal,Dodrio (#085)
+Dodrio,85,Normal,End of evolution
+Seel,86,Water,Dewgong (#087)
+Dewgong,87,Water,End of evolution
+Grimer,88,Poison,Muk (#089)
+Muk,89,Poison,End of evolution
+Shellder,90,Water,Cloyster (#091)
+Cloyster,91,Water,End of evolution
+Gastly,92,Ghost,Haunter (#093)
+Haunter,93,Ghost,Gengar (#094)
+Gengar,94,Ghost,Mega Evolution
+Onix,95,Rock,Steelix (#208)
+Drowzee,96,Psychic,Hypno (#097)
+Hypno,97,Psychic,End of evolution
+Krabby,98,Water,Kingler (#099)
+Kingler,99,Water,End of evolution
+Voltorb,100,Electric,Electrode (#101)
+Electrode,101,Electric,End of evolution
+Exeggcute,102,Grass,Exeggutor (#103)
+Exeggutor,103,Grass,End of evolution
+Cubone,104,Ground,Marowak (#105)
+Marowak,105,Ground,End of evolution
+Hitmonlee,106,Fighting,End of evolution
+Hitmonchan,107,Fighting,End of evolution
+Lickitung,108,Normal,Lickilicky (#463)
+Koffing,109,Poison,Weezing (#110)
+Weezing,110,Poison,End of evolution
+Rhyhorn,111,Ground,Rhydon (#112)
+Rhydon,112,Ground,Rhyperior (#464)
+Chansey,113,Normal,Blissey (#242)
+Tangela,114,Grass,Tangrowth (#465)
+Kangaskhan,115,Normal,Mega Evolution
+Horsea,116,Water,Seadra (#117)
+Seadra,117,Water,Kingdra (#230)
+Goldeen,118,Water,Seaking (#119)
+Seaking,119,Water,End of evolution
+Staryu,120,Water,Starmie (#121)
+Starmie,121,Water,End of evolution
+Mr. Mime,122,Psychic,End of evolution[nb 6]
+Scyther,123,Bug,Scizor (#212)
+Jynx,124,Ice,End of evolution
+Electabuzz,125,Electric,Electivire (#466)
+Magmar,126,Fire,Magmortar (#467)
+Pinsir,127,Bug,Mega Evolution
+Tauros,128,Normal,Unable to evolve
+Magikarp,129,Water,Gyarados (#130)
+Gyarados,130,Water,Mega Evolution
+Lapras,131,Water,Unable to evolve
+Ditto,132,Normal,Unable to evolve
+Eevee,133,Normal,Multiple[nb 7]
+Vaporeon,134,Water,End of Evolution
+Jolteon,135,Electric,End of evolution
+Flareon,136,Fire,End of evolution
+Porygon,137,Normal,Porygon2 (#233)
+Omanyte,138,Rock,Omastar (#139)
+Omastar,139,Rock,End of evolution
+Kabuto,140,Rock,Kabutops (#141)
+Kabutops,141,Rock,End of evolution
+Aerodactyl,142,Rock,Mega Evolution
+Snorlax,143,Normal,End of evolution
+Articuno,144,Ice,Unable to evolve
+Zapdos,145,Electric,Unable to evolve
+Moltres,146,Fire,Unable to evolve
+Dratini,147,Dragon,Dragonair (#148)
+Dragonair,148,Dragon,Dragonite (#149)
+Dragonite,149,Dragon,End of evolution
+Mewtwo,150,Psychic,Mega Evolution
+Mew,151,Psychic,Unable to evolve
