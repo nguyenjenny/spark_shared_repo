@@ -6,3 +6,4 @@ The shared repository for SPARK
 - Jenny Nguyen
 - Jonathan Nayler
 - Maryam Mahjoob
+- Beto Rico
