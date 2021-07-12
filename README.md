@@ -1,2 +1,4 @@
-# spark_shared_repo
+# Shared SPARK Repository
 The shared repository for SPARK
+
+# Contributors
