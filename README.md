@@ -5,3 +5,4 @@ The shared repository for SPARK
 - Santiago Condori
 - Jenny Nguyen
 - Jonathan Nayler
+- Maryam Mahjoob
