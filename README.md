@@ -7,3 +7,5 @@ The shared repository for SPARK
 - Jonathan Nayler
 - Maryam Mahjoob
 - Beto Rico
+- Felix Lee
+- Bilal Syed
