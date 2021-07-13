@@ -1,13 +1,14 @@
 # Group 2: The_NarWolves
 
-![group_logo](../images/placeholder_image.jpg)
+![group_logo](../images/narwhal.jpg)
 
 
 ## Contributors
  - Santiago 
  - Felix 
  - Jenny
-- Jonathan
+ - Jonathan
+ 
 ## Group Motto
 -  Pierce Like A NarWolf! They're Teeth, Not Horns!
 
