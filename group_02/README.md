@@ -9,7 +9,7 @@
  - Jenny
 - Jonathan
 ## Group Motto
--  Group motto here
+-  Pierce Like A NarWolf! They're Teeth, Not Horns!
 
 ## Our Project
 
