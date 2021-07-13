@@ -15,10 +15,11 @@ Life is short, eat dessert first.
 ## Our Project
 
 ### The Dataset
-[explain your dataset here]
+Star Wars character info dataset
 
 ### Objectives
-- List objectives here
+- determine heights of different species
+- determine planet of origin of different species
 
 
 
