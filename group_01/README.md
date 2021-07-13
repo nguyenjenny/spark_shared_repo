@@ -1,10 +1,13 @@
-# Group 1
+# Group 1: [Group_Name_Here]
 
 ![group_logo](../images/placeholder_image.jpg)
 
 
 ## Contributors
-- List the contributors here
+- Beto Rico
+- Bilal Syed
+- Maryam Mahjoob
+- Victoria Johnston
 
 ## Group Motto
 -  Group motto here
