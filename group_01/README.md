@@ -1,4 +1,4 @@
-# Group 1: [Group_Name_Here]
+# Group 1
 
 ![group_logo](../images/placeholder_image.jpg)
 
