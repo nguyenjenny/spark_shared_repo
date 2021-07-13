@@ -9,3 +9,4 @@ The shared repository for SPARK
 - Beto Rico
 - Felix Lee
 - Bilal Syed
+- Victoria Johnston
