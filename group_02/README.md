@@ -1,4 +1,4 @@
-# Group 2: [Group_Name_Here]
+# Group 2: The_NarWolves
 
 ![group_logo](../images/placeholder_image.jpg)
 
