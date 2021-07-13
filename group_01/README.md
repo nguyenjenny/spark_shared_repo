@@ -1,6 +1,6 @@
 # Group 1: [Group_Name_Here]
 
-![group_logo](../image/placeholder_image.jpg)
+![group_logo](../images/placeholder_image.jpg)
 
 
 ## Contributors
