@@ -10,7 +10,7 @@
 - Victoria Johnston
 
 ## Group Motto
--  Group motto here
+Life is short, eat dessert first.
 
 ## Our Project
 
