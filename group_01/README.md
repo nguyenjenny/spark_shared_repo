@@ -1,6 +1,6 @@
 # Group 1
 
-![group_logo](../images/placeholder_image.jpg)
+![group_logo](../images/yobamos.png)
 
 
 ## Contributors
