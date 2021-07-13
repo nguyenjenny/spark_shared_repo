@@ -8,6 +8,7 @@
  - Felix 
  - Jenny
  - Jonathan
+ - Felicia
  
 ## Group Motto
 -  Pierce Like A NarWolf! They're Teeth, Not Horns!
