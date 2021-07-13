@@ -4,8 +4,10 @@
 
 
 ## Contributors
-- List the contributors here
-
+ - Santiago 
+ - Felix 
+ - Jenny
+- Jonathan
 ## Group Motto
 -  Group motto here
 
