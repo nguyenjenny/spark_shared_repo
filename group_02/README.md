@@ -15,7 +15,7 @@
 ## Our Project
 
 ### The Dataset
-[explain your dataset here]
+This data set contains information about major movies in the dc and marvel universes. The features of this data set include the name of the movie the year the runtime and IMDB scores.  
 
 ### Objectives
 - List objectives here
