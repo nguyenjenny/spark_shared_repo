@@ -1,7 +1,7 @@
 # Group 1
 
 ![group_logo](../images/yobamos.png)
-
+![group_logo](../images/warframe_003.jpg)
 
 ## Contributors
 - Beto Rico
