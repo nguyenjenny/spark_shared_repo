@@ -1,4 +1,4 @@
-# Name Here
+# Jonathan Nayler
 
 ## About Me
 My name is Jonathan and I am going into my second year in the Indigenous Studies program at Trent
