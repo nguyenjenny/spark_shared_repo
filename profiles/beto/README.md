@@ -1,18 +1,18 @@
-# Name Here
+# Beto Rico
 
 ## About Me
-[Introduce yourself here]
+I am a human from Earth and I like to eat food and drink water
 
 ## Why did you want to participant in SPARK?
-[Answer Here]
+Learning about data science is fun
 
 ## What's your favourite colour? 
-[Answer here]
+Blue
 
 ## List you favourite movies?
-- movie 1
-- movie 2
-- movie 3
+- The Matrix
+- Star Wars
+- I don't know
 
 ## What superpower would you most want?
-[Answer here]
+- be invisible/go anywhere
