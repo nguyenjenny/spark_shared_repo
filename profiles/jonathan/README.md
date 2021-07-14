@@ -9,7 +9,7 @@ Just thought it would be interesting and cool! Learn up-to-date practices in the
 ## What's your favourite colour? 
 Red
 
-## List you favourite movies?
+## List your favourite movies?
 - Luca
 - Guardian of the Galaxy
 - Return of the Jedi/Force Awakens
