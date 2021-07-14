@@ -4,11 +4,11 @@
 
 
 ## Contributors
- - Santiago 
- - Felix 
- - Jenny
- - Jonathan
- - Felicia
+ - Santiago Condori
+ - Felix Lee
+ - Jenny Nguyen
+ - Jonathan Nayler
+ - Felicia Liu
  
 ## Group Motto
 -  Pierce Like A NarWolf! They're Teeth, Not Horns!
@@ -16,6 +16,7 @@
 ## Our Project
 
 ### The Dataset
+![group_logo](../images/marvel_dc.jpg)
 This data set contains information about major movies in the dc and marvel universes. The features of this data set include the name of the movie the year the runtime and IMDB scores.  
 
 ### Objectives
