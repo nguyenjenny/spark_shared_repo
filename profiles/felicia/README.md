@@ -7,7 +7,7 @@ Hi everyone, my name is Felicia! I'm an undergraduate student at the University 
 I really wanted to learn more about coding, github, and I was excited to meet the other :sparkles:SPARK:sparkles: participants.
 
 ## What's your favourite colour? 
-I love the colour <font color = "# 660066"> purple </ font> <br />!
+I love the colour purple!
 
 ## List your favourite movies?
 - Zootopia
