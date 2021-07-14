@@ -1,13 +1,13 @@
-# Felicia
+# <span style="font-family:Papyrus; font-size:4em;">Felicia</span>
 
 ## About Me
 Hi everyone, my name is Felicia! I'm an undergraduate student at the University of Toronto in Engineering Science and a 2021 Ward Summer Student at Holland Bloorview.
 
 ## Why did you want to participant in SPARK?
-I really wanted to learn more about coding, github, and I was excited to meet the other :sparkle:SPARK:sparkle: participants.
+I really wanted to learn more about coding, github, and I was excited to meet the other :sparkles:SPARK:sparkles: participants.
 
 ## What's your favourite colour? 
-I love the colour purple!
+I love the colour <span style="color:purple">some **purple** text</span>.!
 
 ## List your favourite movies?
 - Zootopia
