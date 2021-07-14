@@ -9,7 +9,7 @@ I thought my buddy Russell would be joining, so I signed up
 ## What's your favourite colour? 
 Blue
 
-## List you favourite movies?
+## List your favourite movies?
 - Shawshank Redemption
 - Train to Busan Presents: Peninsula
 - Train to Busan
