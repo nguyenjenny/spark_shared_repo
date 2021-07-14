@@ -9,7 +9,7 @@ I like the of teach coding, skills and data science skills to others. :sparkles:
 ## What's your favourite colour? 
 **Lime Green**
 
-## List you favourite movies?
+## List your favourite movies?
 1. Mulan
 2. How to train your dragon
 3. Raya and last dragon
