@@ -10,7 +10,7 @@ I wanted to participate in informing others about data science skills - which ar
 ## What's your favourite colour? 
 Blue 💙
 
-## List you favourite movies?
+## List your favourite movies?
 - Soul 🌎
 - Freaky Friday 👻
 - Harry Potter Series 🧙‍♀️
