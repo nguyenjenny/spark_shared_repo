@@ -9,7 +9,7 @@ I wanted the opportunity to meet some budding new data scientists and pass along
 ## What's your favourite colour? 
 Blue
 
-## List you favourite movies?
+## List your favourite movies?
 - A Bug's Life
 - Fast and Furious
 - Lion King
