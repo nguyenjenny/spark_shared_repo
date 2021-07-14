@@ -16,3 +16,5 @@ Blue
 
 ## What superpower would you most want?
 - be invisible/go anywhere
+
+:octopus:
