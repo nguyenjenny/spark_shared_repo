@@ -9,7 +9,7 @@ Learning about data science is fun
 ## What's your favourite colour? 
 Blue
 
-## List you favourite movies?
+## List your favourite movies?
 - The Matrix
 - Star Wars
 - I don't know
