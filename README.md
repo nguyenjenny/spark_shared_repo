@@ -6,14 +6,14 @@ The shared repository for SPARK. SPARK is an employment-readiness program that f
 Our first summer iteration of the program was held from *July 12, 2021 to July 16, 2021*. The repository contains the different projects that the participants worked on under the guidance of program facilitators. 
 
 # Contributors
-- Santiago Condori
-- Jenny Nguyen
-- Jonathan Nayler
-- Maryam Mahjoob
-- Beto Rico
-- Felix Lee
-- Bilal Syed
-- Victoria Johnston
+- [Santiago Condori](profiles/santiago)
+- [Jenny Nguyen](profiles/jenny)
+- [Jonathan Nayler](profiles/jonathan)
+- [Maryam Mahjoob](profiles/maryam)
+- [Beto Rico](profiles/beto)
+- [Felix Lee](profiles/felix)
+- [Bilal Syed](profiles/bilal)
+- [Victoria Johnston](profiles/victoria)
 
 
 # Special thanks to our guest speakers
