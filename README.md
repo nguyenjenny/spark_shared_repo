@@ -13,7 +13,7 @@ Our first summer iteration of the program was held from *July 12, 2021 to July 1
 - Beto Rico
 - Felix Lee
 - Bilal Syed
-- Victoria Johnsto
+- Victoria Johnston
 
 
 # Special thanks to our guest speakers
