@@ -1,5 +1,9 @@
-# Shared SPARK Repository
-The shared repository for SPARK. It is a program to learn employment-readness skills as well as data science-related skills. 
+
+![spark banner](images/spark_banner-01.png)
+
+# SPARK 2021: Shared Repository
+The shared repository for SPARK. SPARK is an employment-readiness program that focuses on teaching data science-related skills run by Holland Bloorview's Autism Research Centre. 
+Our first summer iteration of the program was held from *July 12, 2021 to July 16, 2021*. The repository contains the different projects that the participants worked on under the guidance of program facilitators. 
 
 # Contributors
 - Santiago Condori

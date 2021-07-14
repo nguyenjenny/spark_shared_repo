@@ -27,7 +27,7 @@ This data set contains information about major movies in the DC and Marvel unive
 - Are Marvel or DC films shorter or longer?
 - Does age restriction relate to movie run time?
 - Are there more female or male actors in these films?
--
+
 ### Basic Stats
 - 1442 data points
 - The mean score of both Marvel and DC movies is 7.85
