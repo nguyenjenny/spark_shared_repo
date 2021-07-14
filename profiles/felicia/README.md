@@ -1,18 +1,18 @@
-# Name Here
+# Felicia
 
 ## About Me
-[Introduce yourself here]
+Hi everyone, my name is Felicia! I'm an undergraduate student at the University of Toronto in Engineering Science and a 2021 Ward Summer Student at Holland Bloorview.
 
 ## Why did you want to participant in SPARK?
-[Answer Here]
+I really wanted to learn more about coding, github, and I was excited to meet the other :sparkles:SPARK:sparkles: participants.
 
 ## What's your favourite colour? 
-[Answer here]
+I love the colour purple!
 
-## List you favourite movies?
-- movie 1
-- movie 2
-- movie 3
+## List your favourite movies?
+- Zootopia
+- Avengers Endgame
+- Annie
 
 ## What superpower would you most want?
-[Answer here]
+I'd like to be able to teleport! It would make travelling much easier.
