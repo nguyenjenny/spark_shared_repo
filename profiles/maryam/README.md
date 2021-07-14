@@ -1,18 +1,19 @@
 # Name Here
+Maryam Mahjoob ✨
 
 ## About Me
-[Introduce yourself here]
+A graduate student 👩‍🎓 in the biomedical engineering program at UofT
 
 ## Why did you want to participant in SPARK?
-[Answer Here]
+I wanted to participate in informing others about data science skills - which are super useful and cool once we get familiar with them! 💻 🖥️ 🖱️
 
 ## What's your favourite colour? 
-[Answer here]
+Blue 💙
 
 ## List you favourite movies?
-- movie 1
-- movie 2
-- movie 3
+- Soul 🌎
+- Freaky Friday 👻
+- Harry Potter Series 🧙‍♀️
 
 ## What superpower would you most want?
-[Answer here]
+- to be able to fly 🐦
