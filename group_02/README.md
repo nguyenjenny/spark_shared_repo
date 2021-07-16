@@ -20,6 +20,7 @@
 This data set contains information about major movies in the DC and Marvel universes. The features of this data set include the name of the movie the year the runtime and IMDB scores.  
 
 You can take a look at the [notebook](group_2_analysis.ipynb) to see our analysis. 
+You can also take a look at our [slides](https://docs.google.com/presentation/d/16R5z-_tQTbvgJ-_srTK0rWX83MEnDqjU7_xnoNeDf-8/e) too!
 
 ### Objectives
 - Are DC films rated higher than Marvel films or is it the other way around?
