@@ -19,6 +19,8 @@
 ![group_logo](../images/marvel_dc.jpg)
 This data set contains information about major movies in the DC and Marvel universes. The features of this data set include the name of the movie the year the runtime and IMDB scores.  
 
+You can take a look at the [notebook](group_2_analysis.ipynb) to see our analysis. 
+
 ### Objectives
 - Are DC films rated higher than Marvel films or is it the other way around?
 - Are longer rated films higher than shorter films?
